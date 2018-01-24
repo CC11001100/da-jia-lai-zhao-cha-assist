@@ -1,0 +1,13 @@
+
+.gitignore
+.idea/checkstyle-idea.xml
+.idea/compiler.xml
+.idea/inspectionProfiles/
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/uiDesigner.xml
+.idea/workspace.xml
+dajialaizhaochaassist.iml
+src/main/resources/
+target/
